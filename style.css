@@ -82,7 +82,7 @@ li {
   color: white;
 }
 .btn:focus {
-  background-color: lightskyblue;
+  background-color: orangered;
   box-shadow: none;
 }
 .submit {
